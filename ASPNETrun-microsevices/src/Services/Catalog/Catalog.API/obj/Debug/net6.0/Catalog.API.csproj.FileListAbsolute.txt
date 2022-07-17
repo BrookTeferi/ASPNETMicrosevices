@@ -25,3 +25,5 @@ C:\Users\hope\source\repos\ASPNETMicrosevices\ASPNETrun-microsevices\src\Service
 C:\Users\hope\source\repos\ASPNETMicrosevices\ASPNETrun-microsevices\src\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog.API.pdb
 C:\Users\hope\source\repos\ASPNETMicrosevices\ASPNETrun-microsevices\src\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog.API.genruntimeconfig.cache
 C:\Users\hope\source\repos\ASPNETMicrosevices\ASPNETrun-microsevices\src\Services\Catalog\Catalog.API\obj\Debug\net6.0\ref\Catalog.API.dll
+C:\Users\hope\source\repos\ASPNETMicrosevices\ASPNETrun-microsevices\src\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog.API.Properties.Resources.resources
+C:\Users\hope\source\repos\ASPNETMicrosevices\ASPNETrun-microsevices\src\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.GenerateResource.cache
