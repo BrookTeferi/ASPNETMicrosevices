@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1jhIcSCPnvz1Kp7dTeIwPZR2aycQJvJuXkpoBte+QJCPda5gbVa81hH9/Jov/o2lgxJn6s0UDrwXWUxoqihsZw==",
+  "dgSpecHash": "SVSFk8hy8ocSV6GIL3uUCAfZ6NztKfs26cbb0jJ5/bY1PH3oTtTg7kcuQT6/mVXBQnismjOrDLLFRyEgc2f1vw==",
   "success": true,
   "projectFilePath": "C:\\Users\\hope\\source\\repos\\ASPNETMicrosevices\\ASPNETrun-microsevices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\hope\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\hope\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\hope\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hope\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\hope\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\hope\\.nuget\\packages\\mongodb.bson\\2.16.1\\mongodb.bson.2.16.1.nupkg.sha512",
     "C:\\Users\\hope\\.nuget\\packages\\mongodb.driver\\2.16.1\\mongodb.driver.2.16.1.nupkg.sha512",

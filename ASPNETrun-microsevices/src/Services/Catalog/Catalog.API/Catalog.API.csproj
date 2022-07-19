@@ -14,9 +14,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <PlatformTarget>AnyCPU</PlatformTarget>
     <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..\..</DockerfileContext>
+    <DockerComposeProjectPath>..\..\..\..\docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.15.1" />
     <PackageReference Include="MongoDB.Driver" Version="2.16.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.2" />
   </ItemGroup>
