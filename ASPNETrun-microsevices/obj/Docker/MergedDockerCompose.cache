@@ -1,0 +1,16 @@
+services:
+  Catalog.api:
+    build:
+      context: C:\Users\hope\source\repos\ASPNETMicrosevices\ASPNETrun-microsevices
+      dockerfile: Services/Catalog/Catalog.API/Dockerfile
+    image: catalogapi
+  catalog.api:
+    build:
+      context: C:\Users\hope\source\repos\ASPNETMicrosevices\ASPNETrun-microsevices
+      dockerfile: Services/Catalog/Catalog.API/Dockerfile
+    image: catalog.api
+  catalogdb:
+    image: mongo
+version: '3.4'
+volumes:
+  mongo_data: {}

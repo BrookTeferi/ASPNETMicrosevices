@@ -1,0 +1,1 @@
+C:\Users\hope\source\repos\ASPNETMicrosevices\ASPNETrun-microsevices\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
