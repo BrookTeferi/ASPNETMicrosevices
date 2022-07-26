@@ -10,6 +10,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.API", "src\Services\Catalog\Catalog.API\Catalog.API.csproj", "{9CC437C4-E5BA-43CB-8666-824B6DA8A91F}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{31F77166-F3DC-4A09-AEE2-BD3FA30F35AC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9CC437C4-E5BA-43CB-8666-824B6DA8A91F} = {9CC437C4-E5BA-43CB-8666-824B6DA8A91F}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
